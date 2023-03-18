@@ -1,11 +1,12 @@
 import javax.swing.*;
 
 public class showPhoneWindow extends JFrame{
+     /* here is the phones presentation window */
        private JTextArea ta;
        private dataEvent de;
 
        public showPhoneWindow(){
-            super("ShowPhone");
+            super("ShowPhones");
 
             JPanel p = new JPanel();
 
