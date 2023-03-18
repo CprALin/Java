@@ -4,6 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class deletePhoneWindow extends JFrame{
+    /* here is delete window */
       private JButton delete;
       private JTextField name;
       private EventDP e;
