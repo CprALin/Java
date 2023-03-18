@@ -5,12 +5,16 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class searchPhoneWindow extends JFrame{
-     private JButton search;
+    
+    /* here you can see all phone numbers */
+    
+    private JButton search;
      private JTextField name;
      private EventPW e;
      private TextArea ta;
 
      public searchPhoneWindow(){
+
          super("SearchPhone");
 
          JPanel p = new JPanel();
