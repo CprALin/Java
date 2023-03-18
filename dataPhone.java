@@ -1,4 +1,5 @@
 public class dataPhone {
+    /* here are all data */
     private String name, number;
   
     public dataPhone(String name,String number){
