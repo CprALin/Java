@@ -4,6 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class addPhoneWindow extends JFrame{
+    /* here u add phone numbers */
     private JButton add;
     private TextField name, phone;
     private EventPW e;
